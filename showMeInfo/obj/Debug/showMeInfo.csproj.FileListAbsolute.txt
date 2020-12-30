@@ -1,0 +1,11 @@
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\showMeInfo.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\showMeInfo.Form1.resources
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\showMeInfo.Properties.Resources.resources
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\showMeInfo.csproj.GenerateResource.cache
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\showMeInfo.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\bin\Debug\Notify.exe.config
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\bin\Debug\Notify.exe
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\bin\Debug\Notify.pdb
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\Notify.exe
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\Notify.pdb
+C:\Users\Krzysiek\source\repos\showMeInfo\showMeInfo\obj\Debug\showMeInfo.Form2.resources
